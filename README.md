@@ -75,7 +75,10 @@ npm run dev
 # or
 yarn dev
 ```
-Open [http://localhost:3000](http://localhost:3000) with your browser.
+5. Open the server:
+````bash
+http://localhost:3000
+````
 
 ## Environment Variables
 
@@ -113,5 +116,3 @@ This is fully responsive with breakpoints for:
 **Yash Umak**  
 - LinkedIn: [@yash-umak](https://www.linkedin.com/in/yash-umak-5242ab320/)  
 - GitHub: [@yashumak](https://github.com/yashumak)  
-
- 
