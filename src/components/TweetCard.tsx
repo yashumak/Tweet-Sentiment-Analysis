@@ -94,3 +94,4 @@ export function TweetCard({ tweet, onAnalyze }: TweetCardProps) {
     </div>
   );
 }
+
