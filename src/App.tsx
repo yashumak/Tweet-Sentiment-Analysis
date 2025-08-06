@@ -10,7 +10,7 @@ const INITIAL_TWEETS: Tweet[] = [
     content: "Just launched my new project! 🚀 Really excited about the possibilities! This is going to be amazing and transformative for our users. #innovation #tech",
     author: {
       id: '1',
-      name: 'John Doe',
+      name: 'Bhushan',
       username: 'johndoe',
       avatar: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
     },
