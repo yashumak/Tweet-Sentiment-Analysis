@@ -52,8 +52,8 @@ const INITIAL_TWEETS: Tweet[] = [
     content: "Just got promoted! 🎉 Hard work really does pay off. Grateful for my amazing team and all the support. Here's to new challenges! #career #success",
     author: {
       id: '4',
-      name: 'Emily Chen',
-      username: 'emilyc',
+      name: 'Shruti shelke',
+      username: 'shruti',
       avatar: 'https://static.vecteezy.com/system/resources/previews/010/056/184/large_2x/people-icon-sign-symbol-design-free-png.png',
     },
     timestamp: new Date(Date.now() - 1000 * 60 * 45),
