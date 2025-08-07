@@ -66,8 +66,8 @@ const INITIAL_TWEETS: Tweet[] = [
     content: "The new framework update is okay, but there are some concerning performance issues that need to be addressed. #tech #development",
     author: {
       id: '5',
-      name: 'Alex Thompson',
-      username: 'alext',
+      name: 'Soham Wankhade',
+      username: 'Sahil',
       avatar: 'https://static.vecteezy.com/system/resources/previews/010/056/184/large_2x/people-icon-sign-symbol-design-free-png.png',
     },
     timestamp: new Date(Date.now() - 1000 * 60 * 60),
