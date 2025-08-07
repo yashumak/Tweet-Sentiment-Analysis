@@ -80,8 +80,8 @@ const INITIAL_TWEETS: Tweet[] = [
     content: "Absolutely love the new AI features in VS Code! The suggestions are incredible and have boosted my productivity significantly! 💻✨ #vscode #ai",
     author: {
       id: '6',
-      name: 'Lisa Park',
-      username: 'lisap',
+      name: 'Shiwagya Chaudhari',
+      username: 'shiwagya',
       avatar: 'https://static.vecteezy.com/system/resources/previews/010/056/184/large_2x/people-icon-sign-symbol-design-free-png.png',
     },
     timestamp: new Date(Date.now() - 1000 * 60 * 90),
