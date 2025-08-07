@@ -24,8 +24,8 @@ const INITIAL_TWEETS: Tweet[] = [
     content: "Beautiful day for coding! ☀️ The sun is shining, birds are chirping, and my code is working perfectly! #webdev #coding #happiness",
     author: {
       id: '2',
-      name: 'Sarah Johnson',
-      username: 'sarahj',
+      name: 'Manav Patil',
+      username: 'manav',
       avatar: 'https://static.vecteezy.com/system/resources/previews/010/056/184/large_2x/people-icon-sign-symbol-design-free-png.png',
     },
     timestamp: new Date(Date.now() - 1000 * 60 * 15),
@@ -38,8 +38,8 @@ const INITIAL_TWEETS: Tweet[] = [
     content: "Frustrated with this bug in production. Everything is breaking and nothing seems to work. Having a terrible day. 😠 #coding #bugs",
     author: {
       id: '3',
-      name: 'Mike Wilson',
-      username: 'mikew',
+      name: 'Sahil Navghare',
+      username: 'sahil',
       avatar: 'https://static.vecteezy.com/system/resources/previews/010/056/184/large_2x/people-icon-sign-symbol-design-free-png.png',
     },
     timestamp: new Date(Date.now() - 1000 * 60 * 30),
