@@ -94,8 +94,8 @@ const INITIAL_TWEETS: Tweet[] = [
     content: "Lost all my work because I forgot to commit. This is the worst. Remember to always commit your changes, folks! 😭 #git #lessons",
     author: {
       id: '7',
-      name: 'David Kim',
-      username: 'davidk',
+      name: 'Dravid Rahul',
+      username: 'Dravid',
       avatar: 'https://static.vecteezy.com/system/resources/previews/010/056/184/large_2x/people-icon-sign-symbol-design-free-png.png',
     },
     timestamp: new Date(Date.now() - 1000 * 60 * 120),
@@ -108,8 +108,8 @@ const INITIAL_TWEETS: Tweet[] = [
     content: "The community response to our open source project has been incredible! Thank you all for your contributions and support! ❤️ #opensource",
     author: {
       id: '8',
-      name: 'Rachel Green',
-      username: 'rachelg',
+      name: 'Rachin ravindra',
+      username: 'rachin',
       avatar: 'https://static.vecteezy.com/system/resources/previews/010/056/184/large_2x/people-icon-sign-symbol-design-free-png.png',
     },
     timestamp: new Date(Date.now() - 1000 * 60 * 150),
