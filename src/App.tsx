@@ -136,8 +136,8 @@ const INITIAL_TWEETS: Tweet[] = [
     content: "Just deployed my first machine learning model to production! The results are amazing and I'm so proud of what we've achieved! 🎉 #ai #ml",
     author: {
       id: '10',
-      name: 'Maria Garcia',
-      username: 'mariag',
+      name: 'Manthan Sote',
+      username: 'mari',
       avatar: 'https://static.vecteezy.com/system/resources/previews/010/056/184/large_2x/people-icon-sign-symbol-design-free-png.png',
     },
     timestamp: new Date(Date.now() - 1000 * 60 * 210),
@@ -157,8 +157,8 @@ function App() {
       content,
       author: {
         id: '1',
-        name: 'John Doe',
-        username: 'johndoe',
+        name: 'Bhupendra',
+        username: 'jogi',
         avatar: 'https://static.vecteezy.com/system/resources/previews/010/056/184/large_2x/people-icon-sign-symbol-design-free-png.png',
       },
       timestamp: new Date(),
