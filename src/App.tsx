@@ -122,8 +122,8 @@ const INITIAL_TWEETS: Tweet[] = [
     content: "Meh, another framework to learn. When will it end? Feeling overwhelmed with all these new technologies. #coding #burnout",
     author: {
       id: '9',
-      name: 'Tom Brown',
-      username: 'tomb',
+      name: 'Tom Cruise',
+      username: 'tom',
       avatar: 'https://static.vecteezy.com/system/resources/previews/010/056/184/large_2x/people-icon-sign-symbol-design-free-png.png',
     },
     timestamp: new Date(Date.now() - 1000 * 60 * 180),
